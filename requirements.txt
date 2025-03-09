@@ -1,0 +1,16 @@
+gTTS
+SpeechRecognition
+playsound
+pyaudio
+fastapi
+uvicorn
+sqlalchemy
+psycopg2
+faiss-cpu
+sentence-transformers
+numpy
+gpt4all
+pydantic
+langchain
+langchain-community
+streamlit
